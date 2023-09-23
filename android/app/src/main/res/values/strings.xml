@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RNTutorial</string>
+    <string name="facebook_app_id">832029045246151</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+</resources>
